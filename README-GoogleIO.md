@@ -39,3 +39,13 @@ I wanted to research TensorFlow so...
    * [Chapter 4 - online](https://livebook.manning.com/#!/book/deep-learning-with-python/chapter-4/)
      * it's locked... so moving on
  
+ 3. Videos - [TensorFlow YouTube Channel](https://www.youtube.com/channel/UC0rqucBdTuFTjJiefW5t-IQ/videos)
+ 4. WATCH - [TensorFlow for JavaScript (Google I/O '18)](https://www.youtube.com/watch?v=OmofOvMApTU)
+   * [TensorFlow Playground](https://playground.tensorflow.org/)
+   * [TensorFlow.js intro - tc 5:44](https://youtu.be/OmofOvMApTU?t=344)
+   * [TensorFlow for node.js - tc 23:49](https://youtu.be/OmofOvMApTU?t=1429)
+ 5. WATCH - [Advances in machine learning and TensorFlow (Google I/O '18)](https://www.youtube.com/watch?v=t81QhHaMS7w)
+   * [Art projects with TensorFlow - tc 4:30](https://youtu.be/t81QhHaMS7w?t=270)
+   * [Robot projects wiht TensorFlow - tc 16:40](https://youtu.be/t81QhHaMS7w?t=1000)
+   
+ 
