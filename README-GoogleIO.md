@@ -48,4 +48,11 @@ I wanted to research TensorFlow so...
    * [Art projects with TensorFlow - tc 4:30](https://youtu.be/t81QhHaMS7w?t=270)
    * [Robot projects wiht TensorFlow - tc 16:40](https://youtu.be/t81QhHaMS7w?t=1000)
    
+## Other than Google more background
+
+1. [3Blue1Brown - But what *is* a Neural Network? | Deep learning, chapter 1](https://youtu.be/aircAruvnKk)
+2. [3Blue1Brown - Gradient descent, how neural networks learn | Deep learning, chapter 2](https://youtu.be/IHZwWFHWa-w)
+3. [3Blue1Brown - What is backpropagation really doing? | Deep learning, chapter 3](https://youtu.be/Ilg3gGewQ5U)
+4. [3Blue1Brown - Backpropagation calculus | Deep learning, chapter 4](https://youtu.be/tIeHLnjs5U8)
+   
  
