@@ -56,3 +56,6 @@ I wanted to research TensorFlow so...
 4. [3Blue1Brown - Backpropagation calculus | Deep learning, chapter 4](https://youtu.be/tIeHLnjs5U8)
    
  
+## Found via 3Blue1Brown
+1. http://colah.github.io/
+2. [Quantum computing explained with a deck of cards | Dario Gil, IBM Research](https://www.youtube.com/watch?v=yy6TV9Dntlw)
